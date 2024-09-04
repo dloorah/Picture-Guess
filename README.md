@@ -1,2 +1,2 @@
 # Picture-Guess
-venz at harold lang gumawa:: 
+venz at harold lang gumawa
